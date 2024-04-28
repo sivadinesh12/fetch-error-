@@ -1,0 +1,26 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 2px;
+  background-color: #272727;
+  align-items: center;
+}
+.logo-img {
+  height: 50px;
+}
+.navigation {
+  display: flex;
+}
+
+.nav-text {
+  color: #cbd5e1;
+  font-family: Roboto;
+  margin: 10px;
+  text-decoration: none;
+}
+.logout-btn {
+  margin: 10px;
+  background-color: #6366f1;
+  color: #ffffff;
+  padding: 8px;
+}
